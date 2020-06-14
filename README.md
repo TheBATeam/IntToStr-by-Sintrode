@@ -7,4 +7,4 @@ IntToStr can handle integers up to sixty-six digits long. A number this big take
 
 If the script is revisited in the future, a help screen will be included if invalid input is provided, and the code to validate that user input is actually a number will handle dashes better – right now, the script thinks that 123-456 is a valid number and is read “one million two hundred thirty- thousand four hundred and fifty-six.“
 
-(Read Complete Article)[https://www.thebateam.org/2020/06/convert-numbers-to-words-with-cmd/]
+[Read Complete Article](https://www.thebateam.org/2020/06/convert-numbers-to-words-with-cmd/)
